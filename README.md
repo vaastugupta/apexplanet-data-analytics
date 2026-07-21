@@ -4,7 +4,7 @@ Consists of data analytics tasks using python and its libraries that I have comp
 # Project - Data Analytics of Telco Churn dataset 
 # Task 1 : 
 # Objective - 
-To understand foundational setup, cleaning of data and EDA (Exploratory Data Analysis) 
+- To understand foundational setup, cleaning of data and EDA (Exploratory Data Analysis) 
 # Dataset used - 
 Telco Churn
 # Structure - 
