@@ -6,7 +6,7 @@ Consists of data analytics tasks using python and its libraries that I have comp
 # Objective - 
 - To understand foundational setup, cleaning of data and EDA (Exploratory Data Analysis) 
 # Dataset used - 
-Telco Churn
+Telco Churn Dataset
 # Structure - 
 - Data Cleaning 
 - EDA 
