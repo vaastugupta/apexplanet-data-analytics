@@ -1,4 +1,4 @@
-# apexplanet-data-analytics
+# ApexPlanet-Data-Analytics
 Consists of data analytics tasks using python and its libraries that I have completed under my Apex Planet internship.
 
 # Project - Data Analytics of Telco Churn dataset 
